@@ -1,0 +1,30 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.htm
+*.dep
+*.iex
+*.hex
+*.bin
+*.build_log.htm
+
+# Keil / J-Link user settings
+*.uvguix.*
+*.uvoptx
+JLinkSettings.ini
+EventRecorderStub.scvd
+
+# IDE / OS
+.vscode/
+.codeartsdoer/
+.sixth/
+.idea/
+Thumbs.db
+desktop.ini
